@@ -4,7 +4,7 @@
   "version": "2.1",
   "description": "Gets information from Google.",
   "icons": { "128": "icon_128.png" },
-  "permissions": ["http://*.google.com/", "https://*.google.com/", "https://api.yelp.com/"],
+  "permissions": ["http://*.google.com/", "https://mybusiness.googleapis.com/", "https://*.google.com/", "https://api.yelp.com/"],
   "browser_action": {
     "default_icon": "icon_19.png",
     "default_popup": "popup.html"
